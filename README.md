@@ -6,6 +6,7 @@ I want to explain What I did.
 
 -Horizontal Player Movement.
 -Player Shooting.
+-Collisions.
 -Some kind of Obstacle.
 -Enemies.
 -Enemies Movement.
