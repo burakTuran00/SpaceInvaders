@@ -15,3 +15,5 @@ I made the Space Invaders. I used the Unity Editor and C# for coding. I want to 
 -Enemies Movement.
 
 -Game Manager for controlling the Game.
+
+To play: https://sharemygame.com/@Poki/invadersfromspace
